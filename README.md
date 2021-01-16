@@ -26,6 +26,7 @@
 - The data is splitted into Training set(80%) and Validation set(20%).
 
 - Following 6 different models are built: (2 linear and last 4 are non-linear algorithms)
+
           - Logistic Regression (LR)
           - Linear Discriminant Analysis (LDA)
           - K-Nearest Neighbors (KNN)
